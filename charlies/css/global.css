@@ -15,8 +15,12 @@ body{
 h1{
     font-size:30pt;
     padding-top: 1em;
+    text-align: center;
 }
-   
+
+h2,h3,h4{
+    text-align: center;
+}
 
 img{
     max-width: 100%;
@@ -24,7 +28,7 @@ img{
 
 p,h4{
     margin:auto;
-   max-width: 40%
+   max-width: 70%;
 }
 
 ul{
@@ -33,7 +37,9 @@ ul{
 
 
 .menu{
-    text-align:center;
+    width:23em;
+    margin:auto;
+    padding-left: 4em
 }
 
 
