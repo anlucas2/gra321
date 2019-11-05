@@ -4,9 +4,7 @@ box-sizing: border-box;
 }
 
 body{
-   background: #9D513D url(../img/background2.png) no-repeat;
-    background-size: cover;
-   font-family: 'PT Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif;
     line-height: 2em;
     padding-bottom: 1.5em;
     
@@ -60,7 +58,9 @@ p{
 @media only screen 
   and (min-device-width: 414px) 
   and (max-device-width: 736px) 
-  and (-webkit-min-device-pixel-ratio: 3) { 
+  and (-webkit-min-device-pixel-ratio: 3) {
+    background: #9D513D url(../img/background2.png) no-repeat;
+    background-size: cover;
 
 }
 
@@ -70,7 +70,9 @@ p{
 @media only screen 
   and (min-device-width: 375px) 
   and (max-device-width: 812px) 
-  and (-webkit-min-device-pixel-ratio: 3) { 
+  and (-webkit-min-device-pixel-ratio: 3) {
+    background: #9D513D url(../img/background2.png) no-repeat;
+    background-size: cover;
 
 }
 
@@ -81,6 +83,8 @@ p{
   and (device-width: 360px) 
   and (device-height: 640px) 
   and (-webkit-device-pixel-ratio: 4) {
+    background: #9D513D url(../img/background2.png) no-repeat;
+    background-size: cover;
 
 }
 
@@ -90,6 +94,8 @@ p{
 @media screen 
   and (device-width: 480px) 
   and (device-height: 800px) {
+    background: #9D513D url(../img/background2.png) no-repeat;
+    background-size: cover;
 
 }
 
@@ -97,7 +103,9 @@ p{
 @media screen 
   and (min-device-width: 1200px) 
   and (max-device-width: 1600px) 
-  and (-webkit-min-device-pixel-ratio: 1) { 
+  and (-webkit-min-device-pixel-ratio: 1) {  
+    background: #9D513D url(../img/background2.png) no-repeat;
+    background-size: cover; 
 }
 
 /* ----------- Retina Screens ----------- */
@@ -105,5 +113,7 @@ p{
   and (min-device-width: 1200px) 
   and (max-device-width: 1600px) 
   and (-webkit-min-device-pixel-ratio: 2)
-  and (min-resolution: 192dpi) { 
+  and (min-resolution: 192dpi) {
+    background: #9D513D url(../img/background2.png) no-repeat;
+    background-size: cover;
 }
