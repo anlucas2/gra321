@@ -27,8 +27,9 @@ img{
 }
 
 li{
-    font-size:18pt;
+    font-size:20pt;
 }
+
 p,h4{
     margin:auto;
    max-width: 70%;
@@ -40,7 +41,7 @@ ul{
 
 
 .menu{
-    width:23em;
+    width:25em;
     margin:auto;
     padding-left: 4em
 }
