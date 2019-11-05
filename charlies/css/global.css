@@ -13,7 +13,7 @@ body{
 }
 
 h1{
-    font-size:3em;
+    font-size:4em;
     padding-top: 1em;
     text-align: center;
 }
@@ -31,7 +31,7 @@ li{
     font-size:18pt;
 }
 
-p,h4{
+h4{
     margin:auto;
    max-width: 70%;
 }
@@ -40,7 +40,9 @@ ul{
     list-style: none;
 }
 
-
+p{
+    font-size:18pt;
+}
 .menu{
     width:25em;
     margin:auto;
