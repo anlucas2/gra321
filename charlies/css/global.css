@@ -19,17 +19,17 @@ h1{
 
 h2{
     text-align: center;
-    font-size: 2.5vw;
+    font-size: 3vw;
 }
 
 h3{
     text-align: center;
-    font-size:2vw;
+    font-size:3vw;
 }
 
 h4{
     text-align: center;
-    font-size:2vw;
+    font-size:3vw;
 }
 
 
@@ -39,7 +39,7 @@ img{
 }
 
 li{
-    font-size:2.5vw;
+    font-size:3vw;
 }
 
 h4{
@@ -54,7 +54,7 @@ ul{
 }
 
 p{
-    font-size:2.5vw;
+    font-size:3vw;
 }
 
 .menu{
@@ -64,57 +64,3 @@ p{
 }
 
 
-
-/* ----------- iPhone 6+, 7+ and 8+ ----------- */
-
-/* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 414px) 
-  and (max-device-width: 736px) 
-  and (-webkit-min-device-pixel-ratio: 3) { 
-
-}
-
-/* ----------- iPhone X ----------- */
-
-/* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 812px) 
-  and (-webkit-min-device-pixel-ratio: 3) { 
-
-}
-
-/* ---------galaxy-------*/
-
-/* Portrait and Landscape */
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 4) {
-
-}
-
-/* ----------- Windows Phone ----------- */
-
-/* Portrait and Landscape */
-@media screen 
-  and (device-width: 480px) 
-  and (device-height: 800px) {
-
-}
-
-/* ----------- Non-Retina Screens ----------- */
-@media screen 
-  and (min-device-width: 1200px) 
-  and (max-device-width: 1600px) 
-  and (-webkit-min-device-pixel-ratio: 1) { 
-}
-
-/* ----------- Retina Screens ----------- */
-@media screen 
-  and (min-device-width: 1200px) 
-  and (max-device-width: 1600px) 
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (min-resolution: 192dpi) { 
-}
