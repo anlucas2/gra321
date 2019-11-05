@@ -38,6 +38,7 @@ h4{
 
 ul{
     list-style-type: none;
+    padding:0;
     
 }
 
@@ -46,7 +47,7 @@ p{
 }
 
 .menu{
-    width:25em;
+    width:30em;
     margin:auto;
     padding-left: 4em
 }
